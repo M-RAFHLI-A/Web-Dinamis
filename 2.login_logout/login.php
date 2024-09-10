@@ -45,11 +45,5 @@
                 <button type="submit" name="submit">Login</button>
             </form>
         </ul>
-
-
-
-        <form action="/pc1/2.php/indexphp.html">
-			<input type="submit" value="Kembali">
-		</form>
     </body>
 </html>
