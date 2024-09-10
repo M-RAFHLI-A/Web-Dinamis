@@ -19,9 +19,5 @@
 
 			<input type="submit" value="Login"> 
 		</form> <br>
-
-		<form action="/pc1/2.php/indexphp.html">
-			<input type="submit" value="Kembali">
-		</form>
 	</body> 
 </html>
