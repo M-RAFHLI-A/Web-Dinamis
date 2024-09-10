@@ -83,9 +83,5 @@
                 </li>
             </ul>
         <?php endforeach ?>
-        
-        <form action="/pc1/2.php/indexphp.html">
-			<input type="submit" value="Kembali">
-		</form>
     </body>
 </html>
