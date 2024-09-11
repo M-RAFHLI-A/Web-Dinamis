@@ -113,25 +113,6 @@
                     max-width: 80px; /* Gambar lebih kecil pada layar kecil */
                 }
             }
-
-            /* Style tombol Kembali */
-            .button-container {
-                text-align: center;
-                margin-top: 20px;
-            }
-            .button-container button {
-                width: 100%;
-                padding: 15px 0;
-                background-color: #f44336;
-                color: white;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-                font-size: 16px;
-            }
-            .button-container button:hover {
-                background-color: #d32f2f;
-            }
         </style>
     </head>
     <body>
@@ -178,12 +159,6 @@
                     endforeach
                 ?>
             </table>
-
-            <div class="button-container">
-                <form action="/pc1/2.php/indexphp.html">
-                    <button type="submit">Kembali ke Menu PHP</button>
-                </form>
-            </div>
         </div>
     </body>
 </html>
