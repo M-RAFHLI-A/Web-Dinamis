@@ -4,7 +4,7 @@
         dan siapkan tabelnya dengan nama "siswa"
     */
     // proses persiapan koneksi ke database MySQL
-    $conn = mysqli_connect("localhost", "root", "", "sekolah");
+    $conn = mysqli_connect("localhost", "root", "", "kampus");
 
     // membuat fungsi untuk mengambil isi database nya
     function query($sql){
