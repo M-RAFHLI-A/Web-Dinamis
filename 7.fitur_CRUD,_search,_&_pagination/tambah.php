@@ -8,8 +8,6 @@
     }
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -91,7 +89,7 @@
     </head>
 
     <body>
-    <div class="container">
+        <div class="container">
             <h1>Menambahkan Data Siswa Baru</h1>
 
             <ul>
