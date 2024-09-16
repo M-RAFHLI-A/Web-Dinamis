@@ -253,11 +253,6 @@
                     endforeach
                 ?>
             </table>
-
-            <br>
-            <form action="/pc1/2.php/indexphp.html">
-                <button>Kembali ke Menu PHP</button>
-            </form>
         </div>
     </body>
 </html>
