@@ -46,7 +46,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>CRUD Lewat PHP</title>
+        <title>CRUD, Search, dan Pagination dalam PHP</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
