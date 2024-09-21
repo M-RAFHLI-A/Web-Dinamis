@@ -152,10 +152,6 @@
                 <form action="" method="post">
                     <button type="submit" name="login">Login</button>
                 </form>
-
-                <form action="/pc1/2.php/indexphp.html">
-                    <button type="submit">Kembali</button>
-                </form>
             </div>
         </div>
     </body>
