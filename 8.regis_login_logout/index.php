@@ -159,10 +159,6 @@
             </form>
 
             <div class="other-buttons">
-                <form action="/pc1/2.php/indexphp.html">
-                    <button type="submit">Kembali</button>
-                </form>
-
                 <form action="registrasi.php">
                     <button type="submit">Registrasi</button>
                 </form>
