@@ -4,7 +4,6 @@
         dan siapkan tabelnya dengan nama "mahasiswa"
         didalam tabel nya terdapat kolom 'id', 'prodi', 'absen', dan 'nama'
     */
-    // sebelum memulai, siapkan database dengan nama "kampus", dana tabel "mahasiswa"
     session_start();
 
     // proses koneksi ke database MySQL
