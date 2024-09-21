@@ -1,4 +1,9 @@
 <?php
+    /*
+        Sebelumnya siapkan database dengan nama "login",
+        dan siapkan tabelnya dengan nama "users"
+        didalam tabel nya terdapat kolom 'id', 'nama', 'username', dan 'password'
+    */
     // mengaktifkan session
     session_start();
     
