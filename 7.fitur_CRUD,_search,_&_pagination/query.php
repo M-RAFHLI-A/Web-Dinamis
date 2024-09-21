@@ -2,6 +2,7 @@
     /*
         Sebelumnya siapkan database dengan nama "kampus",
         dan siapkan tabelnya dengan nama "siswa"
+        didalam tabel nya terdapat kolom 'id', 'gambar', nama', 'nisn', 'semester', dan 'jurusan'
     */
     // proses persiapan koneksi ke database MySQL
     $conn = mysqli_connect("localhost", "root", "", "kampus");
