@@ -1,5 +1,9 @@
 <?php
-    // sebelumnya persiapkan database dengan nama "cekdata", dan tabel nya "datanama"
+    /*
+        Sebelumnya siapkan database dengan nama "cekdata",
+        dan siapkan tabelnya dengan nama "datanama"
+        didalam tabel nya terdapat kolom 'id', 'username', 'password', dan 'nama'
+    */
     session_start();
     
     // proses koneksi ke dalam database
